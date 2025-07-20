@@ -21,11 +21,6 @@ Our pipeline includes:
   -Evaluation metrics (Precision, Recall, F1)
   -Confusion Matrix & Loss Curve plots
 
-🔗 Colab Notebook:
-The complete, end-to-end executable notebook is here:
-
-CustomCNN_CSE366.ipynb
-
 The notebook is divided into clear sections:
 
   -Data Loading & Preprocessing
